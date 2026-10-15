@@ -105,7 +105,7 @@
         <text x="-63" y="-85" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="MAC:"/>
         <text x="-52" y="-65" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="IP:"/>
         <terminal type="Generic" x="22" y="166" name="2" uuid="{ad7fb3d6-8e84-4446-8217-cd4efdc9d222}" orientation="s"/>
-        <terminal type="Outer" x="-31" y="-30" name="+12" uuid="{afba80f5-4456-4956-8d99-f38f0df348ec}" orientation="n"/>
+        <terminal type="Outer" x="-31" y="-30" name="LAN" uuid="{afba80f5-4456-4956-8d99-f38f0df348ec}" orientation="n"/>
         <terminal type="Generic" x="61" y="-34" name="3" uuid="{c48a8b3c-78f0-41ca-afe5-6fe319242c9f}" orientation="n"/>
         <terminal type="Generic" x="62" y="166" name="4" uuid="{920d0b6e-ad71-43eb-9246-94063d761949}" orientation="s"/>
         <terminal type="Generic" x="20" y="-34" name="1" uuid="{ba7b6b9a-3ce0-4f0b-9efc-126a0808fc31}" orientation="n"/>

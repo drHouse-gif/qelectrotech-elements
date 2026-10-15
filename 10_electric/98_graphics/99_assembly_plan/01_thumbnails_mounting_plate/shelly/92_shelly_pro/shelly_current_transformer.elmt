@@ -18,6 +18,6 @@
         <dynamic_text Halignment="AlignLeft" text_from="ElementInfo" Valignment="AlignTop" x="60" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" text_width="-1" keep_visual_rotation="false" z="20" uuid="{025fd9be-2c51-42ea-95ea-5ee1cff9a51e}" y="-10" rotation="0">
             <text></text>
         </dynamic_text>
-        <terminal name="" x="58" type="Generic" orientation="e" uuid="{9e4a0703-7f8f-4e48-b307-9aacc44b7348}" y="30"/>
+        <terminal name="CT" x="58" type="Generic" orientation="e" uuid="{9e4a0703-7f8f-4e48-b307-9aacc44b7348}" y="30"/>
     </description>
 </definition>

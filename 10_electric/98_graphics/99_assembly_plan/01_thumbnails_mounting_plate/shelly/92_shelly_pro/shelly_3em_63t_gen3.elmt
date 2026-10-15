@@ -46,11 +46,11 @@
         <text x="-10" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" text="Energy" y="-19" rotation="0"/>
         <circle style="line-style:normal;line-weight:thin;filling:HTMLGreenLimeGreen;color:black" antialias="false" x="-14.66" diameter="3" y="-41"/>
         <text x="-10" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" text="Connection" y="-39" rotation="0"/>
-        <terminal name="L" x="42" type="Outer" orientation="e" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" y="-77"/>
-        <terminal name="L" x="-20" type="Outer" orientation="w" uuid="{f944cd9a-0033-4745-8947-e49b84274cf2}" y="-40"/>
-        <terminal name="L" x="-20" type="Outer" orientation="w" uuid="{0b726bdc-9465-4317-b177-c860ee617640}" y="-77"/>
-        <terminal name="L" x="40" type="Outer" orientation="e" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" y="0"/>
-        <terminal name="L" x="42" type="Outer" orientation="e" uuid="{474ce78a-2f63-4f0a-9ed7-87a4a78d7092}" y="-40"/>
-        <terminal name="L" x="-20" type="Outer" orientation="w" uuid="{0ae316ac-eddc-4fa4-ac16-e73925fe6232}" y="0"/>
+        <terminal name="A-K" x="42" type="Outer" orientation="e" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" y="-77"/>
+        <terminal name="B-L" x="-20" type="Outer" orientation="w" uuid="{f944cd9a-0033-4745-8947-e49b84274cf2}" y="-40"/>
+        <terminal name="A-L" x="-20" type="Outer" orientation="w" uuid="{0b726bdc-9465-4317-b177-c860ee617640}" y="-77"/>
+        <terminal name="C-K" x="42" type="Outer" orientation="e" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" y="0"/>
+        <terminal name="B-K" x="42" type="Outer" orientation="e" uuid="{474ce78a-2f63-4f0a-9ed7-87a4a78d7092}" y="-40"/>
+        <terminal name="C-L" x="-20" type="Outer" orientation="w" uuid="{0ae316ac-eddc-4fa4-ac16-e73925fe6232}" y="0"/>
     </description>
 </definition>

@@ -15,7 +15,6 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text x="27" y="-8" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="L"/>
         <rect ry="0" x="-40" y="-175" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="80" height="175" rx="0"/>
         <rect ry="0" x="-40" y="-130" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="80" height="85" rx="0"/>
         <text x="-15" y="-90" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="Shelly Pro&#xa;2PM"/>

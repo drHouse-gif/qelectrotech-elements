@@ -50,11 +50,11 @@
             <text></text>
             <info_name>ip</info_name>
         </dynamic_text>
-        <terminal type="Outer" x="42" y="-77" name="L" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" orientation="e"/>
-        <terminal type="Outer" x="-20" y="-40" name="L" uuid="{f944cd9a-0033-4745-8947-e49b84274cf2}" orientation="w"/>
-        <terminal type="Outer" x="-20" y="-77" name="L" uuid="{0b726bdc-9465-4317-b177-c860ee617640}" orientation="w"/>
-        <terminal type="Outer" x="40" y="0" name="L" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" orientation="e"/>
-        <terminal type="Outer" x="42" y="-40" name="L" uuid="{474ce78a-2f63-4f0a-9ed7-87a4a78d7092}" orientation="e"/>
-        <terminal type="Outer" x="-20" y="0" name="L" uuid="{0ae316ac-eddc-4fa4-ac16-e73925fe6232}" orientation="w"/>
+        <terminal type="Outer" x="42" y="-77" name="A-K" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" orientation="e"/>
+        <terminal type="Outer" x="-20" y="-40" name="B-L" uuid="{f944cd9a-0033-4745-8947-e49b84274cf2}" orientation="w"/>
+        <terminal type="Outer" x="-20" y="-77" name="A-L" uuid="{0b726bdc-9465-4317-b177-c860ee617640}" orientation="w"/>
+        <terminal type="Outer" x="42" y="0" name="C-K" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" orientation="e"/>
+        <terminal type="Outer" x="42" y="-40" name="B-K" uuid="{474ce78a-2f63-4f0a-9ed7-87a4a78d7092}" orientation="e"/>
+        <terminal type="Outer" x="-20" y="0" name="C-L" uuid="{0ae316ac-eddc-4fa4-ac16-e73925fe6232}" orientation="w"/>
     </description>
 </definition>

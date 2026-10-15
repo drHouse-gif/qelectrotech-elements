@@ -94,11 +94,10 @@
         <line y1="-29" y2="-17" length2="1.5" x2="-6" x1="-6" end2="none" length1="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none"/>
         <rect y="-17" width="12" x="6" height="12" ry="0" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:white" rx="0"/>
         <terminal y="-1" type="Outer" x="-4" orientation="s" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" name="N"/>
-        <terminal y="-1" type="Outer" x="8" orientation="s" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" name="+12"/>
         <terminal y="-200" type="Outer" x="-8" orientation="n" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="O1"/>
         <terminal y="-1" type="Outer" x="-16" orientation="s" uuid="{41303e30-3cdb-4865-b447-d0ffc4a2f885}" name="L"/>
         <terminal y="-184" type="Outer" x="-16" orientation="n" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" name="O2"/>
-        <terminal y="-8" type="Outer" x="12" orientation="s" uuid="{d8140d00-8bc3-424e-8e2b-0e2c7708c9b8}" name="+12"/>
+        <terminal y="-8" type="Outer" x="12" orientation="s" uuid="{d8140d00-8bc3-424e-8e2b-0e2c7708c9b8}" name="LAN"/>
         <terminal y="-200" type="Outer" x="16" orientation="n" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="I1"/>
         <terminal y="-184" type="Outer" x="8" orientation="n" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" name="I2"/>
         <terminal y="-17" type="Outer" x="4" orientation="s" uuid="{3f42d95e-a2a0-4da2-8fb2-01ab4bb416c3}" name="SW1"/>

@@ -15,9 +15,7 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text x="-11" y="-16.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="180" color="#000000" text="T"/>
         <rect ry="0" x="-19" y="-135.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" width="5" height="20" rx="0"/>
-        <text x="-11" y="-15.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="180" color="#000000" text="T"/>
         <rect ry="0" x="-19" y="-175" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="40" height="175" rx="0"/>
         <line end1="none" end2="none" y1="-20.5" antialias="false" y2="-20.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-18" length1="1.5" x2="19.66" length2="1.5"/>
         <text x="-8" y="-25" font="Liberation Sans,6,-1,5,75,0,0,0,0,0" rotation="0" color="#000000" text="Shelly"/>
@@ -34,13 +32,13 @@
         <text x="-10" y="-92" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="VREF"/>
         <text x="-11" y="-116" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="DATA 1"/>
         <text x="-10" y="-84" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="AIN 0"/>
-        <text x="-10" y="-100" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="VREF"/>
+        <text x="-10" y="-100" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="VREF+R1"/>
         <text x="-11" y="-132" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="GND"/>
         <dynamic_text frame="false" Halignment="AlignLeft" x="-19" y="-205" z="63" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" text_width="-1" uuid="{0dc27683-ebd8-4a71-8b0a-20383148eb2f}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <terminal type="Generic" x="16" y="-101" name="VREF" uuid="{2d9fcb34-efbd-4513-a75b-74b87710c36f}" orientation="e"/>
+        <terminal type="Generic" x="16" y="-101" name="VREF+R1" uuid="{2d9fcb34-efbd-4513-a75b-74b87710c36f}" orientation="e"/>
         <terminal type="Generic" x="16" y="-77" name="AIN 1" uuid="{053d8d6a-8d27-4099-b50a-9e86a664dc94}" orientation="e"/>
         <terminal type="Generic" x="16" y="-85" name="AIN 0" uuid="{3736e4a5-6ecb-4858-b654-88c0535a3148}" orientation="e"/>
         <terminal type="Generic" x="16" y="-69" name="GND" uuid="{17c1f7b6-3d51-4b7f-9008-c2338ce52d1e}" orientation="e"/>

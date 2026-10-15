@@ -98,7 +98,6 @@
         <text x="-43" y="-251" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="MAC:"/>
         <text x="-32" y="-231" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="IP:"/>
         <terminal type="Outer" x="-4" y="-1" name="N" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" orientation="s"/>
-        <terminal type="Outer" x="8" y="-1" name="+12" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" orientation="s"/>
         <terminal type="Outer" x="-8" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
         <terminal type="Outer" x="-16" y="-1" name="L" uuid="{41303e30-3cdb-4865-b447-d0ffc4a2f885}" orientation="s"/>
         <terminal type="Outer" x="-16" y="-184" name="O2" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" orientation="n"/>

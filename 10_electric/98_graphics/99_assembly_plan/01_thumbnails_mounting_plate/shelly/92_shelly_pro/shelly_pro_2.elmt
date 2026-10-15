@@ -89,13 +89,13 @@
         <text x="-17" text="Shelly" rotation="0" color="#ffffff" y="-80" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
         <line x2="-6" length2="1.5" length1="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-6" y1="-29" antialias="false" y2="-17" end2="none"/>
         <rect width="12" x="6" height="12" ry="0" y="-17" style="line-style:normal;line-weight:thin;filling:black;color:white" rx="0" antialias="false"/>
-        <terminal orientation="s" x="-4" name="N" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" type="Outer" y="-1"/>
-        <terminal orientation="s" x="8" name="+12" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" type="Outer" y="-1"/>
+        <terminal orientation="s" x="-4" name="L" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" type="Outer" y="-1"/>
+        <terminal orientation="s" x="8" name="N" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" type="Outer" y="-1"/>
         <terminal orientation="n" x="8" name="I2" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" type="Outer" y="-184"/>
         <terminal orientation="n" x="-8" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" type="Outer" y="-200"/>
         <terminal orientation="s" x="4" name="SW1" uuid="{3f42d95e-a2a0-4da2-8fb2-01ab4bb416c3}" type="Outer" y="-17"/>
         <terminal orientation="n" x="16" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" type="Outer" y="-200"/>
-        <terminal orientation="s" x="12" name="+12" uuid="{d8140d00-8bc3-424e-8e2b-0e2c7708c9b8}" type="Outer" y="-8"/>
+        <terminal orientation="s" x="12" name="LAN" uuid="{d8140d00-8bc3-424e-8e2b-0e2c7708c9b8}" type="Outer" y="-8"/>
         <terminal orientation="s" x="16" name="SW2" uuid="{e0f5ada8-c74b-4701-9402-4dd08ffb47d5}" type="Outer" y="-17"/>
         <terminal orientation="n" x="-16" name="O2" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" type="Outer" y="-184"/>
     </description>

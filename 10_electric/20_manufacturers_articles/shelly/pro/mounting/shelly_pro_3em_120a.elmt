@@ -73,14 +73,14 @@
             <text></text>
             <info_name>ip</info_name>
         </dynamic_text>
-        <terminal type="Outer" x="-8" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" x="3" y="-6" name="+12" uuid="{89ed1984-3e44-4e8d-ada7-f1cb05e4f4a6}" orientation="s"/>
-        <terminal type="Outer" x="-15" y="-185" name="O2" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" orientation="n"/>
-        <terminal type="Outer" x="10" y="-185" name="I2" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" orientation="n"/>
+        <terminal type="Outer" x="-8" y="-200" name="C" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" x="3" y="-6" name="IN" uuid="{89ed1984-3e44-4e8d-ada7-f1cb05e4f4a6}" orientation="s"/>
+        <terminal type="Outer" x="-15" y="-185" name="A" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" orientation="n"/>
+        <terminal type="Outer" x="10" y="-185" name="B" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" orientation="n"/>
         <terminal type="Outer" x="12" y="-9" name="LAN" uuid="{973fe992-a5fb-4e4a-b293-c25df252a8b2}" orientation="s"/>
-        <terminal type="Outer" x="16" y="-200" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
-        <terminal type="Outer" x="-3" y="-25" name="L" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" orientation="s"/>
-        <terminal type="Outer" x="-15" y="-5" name="L" uuid="{66b09f04-7ebd-4924-9863-8772809caee3}" orientation="s"/>
-        <terminal type="Outer" x="15" y="-25" name="+12" uuid="{ce28f2ff-ba66-4bde-9bdf-ca6da4769b06}" orientation="s"/>
+        <terminal type="Outer" x="16" y="-200" name="N" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" x="-3" y="-25" name="IA" uuid="{50860719-14bc-490e-a73e-e6191a8d79fc}" orientation="s"/>
+        <terminal type="Outer" x="-15" y="-5" name="IC" uuid="{66b09f04-7ebd-4924-9863-8772809caee3}" orientation="s"/>
+        <terminal type="Outer" x="15" y="-25" name="IB" uuid="{ce28f2ff-ba66-4bde-9bdf-ca6da4769b06}" orientation="s"/>
     </description>
 </definition>

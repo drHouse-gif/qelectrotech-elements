@@ -71,14 +71,14 @@
         <text rotation="0" y="-55" x="-7" text="Reset" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0"/>
         <circle y="-75" x="-7" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="14"/>
         <text rotation="0" y="-80" x="-17" text="Shelly" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
-        <terminal y="-9" type="Outer" x="12" orientation="s" uuid="{44046a76-0ebd-4955-b9d6-bb8a84688162}" name="+12"/>
-        <terminal y="-24" type="Outer" x="14" orientation="s" uuid="{6debd340-9991-4968-80b1-7791dd0d2705}" name="+12"/>
-        <terminal y="-6" type="Outer" x="4" orientation="s" uuid="{fa3482fa-5d39-4242-b0f3-74d9455756db}" name="+12"/>
-        <terminal y="-184" type="Outer" x="-16" orientation="n" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" name="O2"/>
-        <terminal y="-200" type="Outer" x="-8" orientation="n" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="O1"/>
-        <terminal y="-6" type="Outer" x="-14" orientation="s" uuid="{b9bf736f-a0ee-4dad-bcd3-7a8c28f55361}" name="L"/>
-        <terminal y="-200" type="Outer" x="16" orientation="n" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="I1"/>
-        <terminal y="-24" type="Outer" x="-4" orientation="s" uuid="{717a2649-6374-4be6-a7d8-d3d5b359e452}" name="L"/>
-        <terminal y="-184" type="Outer" x="8" orientation="n" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" name="I2"/>
+        <terminal y="-9" type="Outer" x="12" orientation="s" uuid="{44046a76-0ebd-4955-b9d6-bb8a84688162}" name="LAN"/>
+        <terminal y="-24" type="Outer" x="14" orientation="s" uuid="{6debd340-9991-4968-80b1-7791dd0d2705}" name="IB"/>
+        <terminal y="-6" type="Outer" x="4" orientation="s" uuid="{fa3482fa-5d39-4242-b0f3-74d9455756db}" name="IN"/>
+        <terminal y="-184" type="Outer" x="-16" orientation="n" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" name="A"/>
+        <terminal y="-200" type="Outer" x="-8" orientation="n" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="C"/>
+        <terminal y="-6" type="Outer" x="-14" orientation="s" uuid="{b9bf736f-a0ee-4dad-bcd3-7a8c28f55361}" name="IC"/>
+        <terminal y="-200" type="Outer" x="16" orientation="n" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="N"/>
+        <terminal y="-24" type="Outer" x="-4" orientation="s" uuid="{717a2649-6374-4be6-a7d8-d3d5b359e452}" name="IA"/>
+        <terminal y="-184" type="Outer" x="8" orientation="n" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" name="B"/>
     </description>
 </definition>

@@ -46,5 +46,34 @@
         <terminal type="Generic" x="-40" y="89" name="L" uuid="{c675ca43-6c79-44d0-94be-645c75c8b3f3}" orientation="s"/>
         <terminal type="Generic" x="20" y="89" name="Lo" uuid="{bdecbd7a-fbaa-40e2-ad0c-ad5c22902c4c}" orientation="s"/>
         <terminal type="Generic" x="0" y="89" name="M" uuid="{20feb138-00b0-48a6-9669-79fb70a9fc97}" orientation="s"/>
+        <rect ry="0" x="100" y="-100" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-92.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="A1"/>
+        <terminal type="Generic" x="120" y="-95" name="A1" uuid="{c43bd8ed-7e2e-4735-92b8-da17c114909c}" orientation="e"/>
+        <rect ry="0" x="100" y="-90" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-82.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="B1"/>
+        <terminal type="Generic" x="120" y="-85" name="B1" uuid="{b3f5ee75-062d-4231-819d-3b1e448fbbdc}" orientation="e"/>
+        <rect ry="0" x="100" y="-80" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-72.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="A2"/>
+        <terminal type="Generic" x="120" y="-75" name="A2" uuid="{27e62ef1-d225-4769-aac3-4e2428522b18}" orientation="e"/>
+        <rect ry="0" x="100" y="-70" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-62.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="B2"/>
+        <terminal type="Generic" x="120" y="-65" name="B2" uuid="{b0351756-82e1-4aa2-9a44-b6294df94d2b}" orientation="e"/>
+        <rect ry="0" x="100" y="-60" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-52.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="C1"/>
+        <terminal type="Generic" x="120" y="-55" name="C1" uuid="{1a96b52a-97db-4c6e-8744-862a5d0aef60}" orientation="e"/>
+        <rect ry="0" x="100" y="-50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-42.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="C2"/>
+        <terminal type="Generic" x="120" y="-45" name="C2" uuid="{968b3163-be9c-4f96-9f56-cb4d24057c85}" orientation="e"/>
+        <rect ry="0" x="100" y="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-32.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="10V"/>
+        <terminal type="Generic" x="120" y="-35" name="10V" uuid="{574330c0-d0c0-46ed-87cd-d96b68166ee5}" orientation="e"/>
+        <rect ry="0" x="100" y="-30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-22.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="0-10V"/>
+        <terminal type="Generic" x="120" y="-25" name="0-10V" uuid="{604c8828-9b07-4913-a39b-5a4418f42c4d}" orientation="e"/>
+        <rect ry="0" x="100" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="10" rx="0"/>
+        <text x="101" y="-12.5" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="GND"/>
+        <terminal type="Generic" x="120" y="-15" name="GND" uuid="{184dc56f-4874-483a-b928-e7ca34f55724}" orientation="e"/>
+        <text x="40" y="-105" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="RS485: A1/B1, A2/B2"/>
+        <text x="40" y="-100" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="C1/C2: digital output"/>
     </description>
 </definition>

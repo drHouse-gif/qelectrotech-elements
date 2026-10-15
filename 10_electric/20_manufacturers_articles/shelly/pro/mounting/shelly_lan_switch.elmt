@@ -66,12 +66,12 @@
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <terminal type="Outer" x="40" y="-200" name="I1" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
-        <terminal type="Outer" x="46" y="-1" name="+12" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
-        <terminal type="Outer" x="-40" y="-2" name="L" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
-        <terminal type="Outer" x="-40" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" x="0" y="-2" name="+12" uuid="{10e5079d-2fd7-4c41-8600-19b054398d35}" orientation="s"/>
-        <terminal type="Outer" x="0" y="-200" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
-        <terminal type="Outer" x="34" y="-1" name="+12" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
+        <terminal type="Outer" x="40" y="-200" name="LAN3" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
+        <terminal type="Outer" x="46" y="-1" name="N" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
+        <terminal type="Outer" x="-40" y="-2" name="LAN4" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
+        <terminal type="Outer" x="-40" y="-200" name="LAN1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" x="0" y="-2" name="LAN5" uuid="{10e5079d-2fd7-4c41-8600-19b054398d35}" orientation="s"/>
+        <terminal type="Outer" x="0" y="-200" name="LAN2" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" x="34" y="-1" name="L" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
     </description>
 </definition>

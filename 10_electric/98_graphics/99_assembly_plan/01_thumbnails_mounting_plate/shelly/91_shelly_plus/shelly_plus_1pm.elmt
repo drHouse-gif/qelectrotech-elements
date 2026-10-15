@@ -78,12 +78,12 @@
         <line x1="41" y1="-14" x2="41" y2="-3" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false"/>
         <line x1="-35" y1="-14" x2="-35" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false"/>
         <line x1="-47" y1="28" x2="47" y2="28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:HTMLRedDarkRed;color:HTMLRedDarkRed" antialias="false"/>
-        <terminal uuid="{de909544-d920-4691-b965-db0983011db6}" name="N" x="41" y="45" orientation="s" type="Outer"/>
+        <terminal uuid="{de909544-d920-4691-b965-db0983011db6}" name="O" x="41" y="45" orientation="s" type="Outer"/>
         <terminal uuid="{2b2511f0-0f6d-4eb7-8312-b172a646ed68}" name="L" x="14" y="45" orientation="s" type="Outer"/>
-        <terminal uuid="{ee769930-d8c0-4552-9a17-233027133a44}" name="O1" x="27" y="45" orientation="s" type="Outer"/>
-        <terminal uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" name="S1" x="-27" y="45" orientation="s" type="Outer"/>
-        <terminal uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" name="O2" x="-14" y="45" orientation="s" type="Outer"/>
+        <terminal uuid="{ee769930-d8c0-4552-9a17-233027133a44}" name="SW" x="27" y="45" orientation="s" type="Outer"/>
+        <terminal uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" name="N" x="-27" y="45" orientation="s" type="Outer"/>
+        <terminal uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" name="L" x="-14" y="45" orientation="s" type="Outer"/>
         <terminal uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" name="L" x="0" y="45" orientation="s" type="Outer"/>
-        <terminal uuid="{060821b5-57e7-4771-9836-6a22145e8575}" name="S2" x="-41" y="45" orientation="s" type="Outer"/>
+        <terminal uuid="{060821b5-57e7-4771-9836-6a22145e8575}" name="N" x="-41" y="45" orientation="s" type="Outer"/>
     </description>
 </definition>

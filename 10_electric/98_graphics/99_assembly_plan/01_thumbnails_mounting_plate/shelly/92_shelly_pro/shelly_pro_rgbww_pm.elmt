@@ -107,18 +107,18 @@
         <line y1="-8.95" y2="-4.95" length2="1.5" x2="2" x1="-2" end2="none" length1="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
         <line y1="-8.95" y2="-4.95" length2="1.5" x2="0" x1="0" end2="none" length1="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none"/>
         <line y1="-6.95" y2="-6.95" length2="1.5" x2="2" x1="-2" end2="none" length1="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none"/>
-        <terminal y="-200" type="Outer" x="4" orientation="n" uuid="{f2886b0f-6003-4ff0-8aae-ed223c9c2bf2}" name="O"/>
-        <terminal y="-18" type="Outer" x="-8" orientation="s" uuid="{52b60371-8ab5-4339-b86a-bcddb4f9bea0}" name="L"/>
-        <terminal y="-18" type="Outer" x="4" orientation="s" uuid="{9e69969a-ed4d-4f52-af63-69ff5edf5858}" name="N"/>
-        <terminal y="-8" type="Outer" x="12" orientation="s" uuid="{fa0aac32-7347-4cc6-9746-a2ad3709d219}" name="+12"/>
-        <terminal y="-1" type="Outer" x="8" orientation="s" uuid="{61b11481-d940-43fd-b097-c6f207cf1623}" name="+12"/>
-        <terminal y="-1" type="Outer" x="-4" orientation="s" uuid="{fa25f9c7-41cf-445a-9f9f-27dc51ba348c}" name="N"/>
-        <terminal y="-200" type="Outer" x="-8" orientation="n" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="O"/>
-        <terminal y="-200" type="Outer" x="16" orientation="n" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="I"/>
-        <terminal y="-1" type="Outer" x="-16" orientation="s" uuid="{4af21d69-dd7e-4347-b70b-cbdbed958ca6}" name="L"/>
-        <terminal y="-183" type="Outer" x="-4" orientation="n" uuid="{8c5b96ff-f56c-4a54-9030-831ce3702fa6}" name="O"/>
-        <terminal y="-18" type="Outer" x="16" orientation="s" uuid="{866b7e47-684f-4b9b-9f47-34245dfa8091}" name="+12"/>
-        <terminal y="-183" type="Outer" x="8" orientation="n" uuid="{53229adf-659f-4578-877e-5ec889de3218}" name="I"/>
-        <terminal y="-183" type="Outer" x="-16" orientation="n" uuid="{3dccb31e-70af-457c-939a-0aeec19bc293}" name="O"/>
+        <terminal y="-200" type="Outer" x="4" orientation="n" uuid="{f2886b0f-6003-4ff0-8aae-ed223c9c2bf2}" name="O2"/>
+        <terminal y="-18" type="Outer" x="-8" orientation="s" uuid="{52b60371-8ab5-4339-b86a-bcddb4f9bea0}" name="SW1"/>
+        <terminal y="-18" type="Outer" x="4" orientation="s" uuid="{9e69969a-ed4d-4f52-af63-69ff5edf5858}" name="SW2"/>
+        <terminal y="-8" type="Outer" x="12" orientation="s" uuid="{fa0aac32-7347-4cc6-9746-a2ad3709d219}" name="LAN"/>
+        <terminal y="-1" type="Outer" x="8" orientation="s" uuid="{61b11481-d940-43fd-b097-c6f207cf1623}" name="+"/>
+        <terminal y="-1" type="Outer" x="-4" orientation="s" uuid="{fa25f9c7-41cf-445a-9f9f-27dc51ba348c}" name="SW5"/>
+        <terminal y="-200" type="Outer" x="-8" orientation="n" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="O1"/>
+        <terminal y="-200" type="Outer" x="16" orientation="n" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="O3"/>
+        <terminal y="-1" type="Outer" x="-16" orientation="s" uuid="{4af21d69-dd7e-4347-b70b-cbdbed958ca6}" name="SW4"/>
+        <terminal y="-183" type="Outer" x="-4" orientation="n" uuid="{8c5b96ff-f56c-4a54-9030-831ce3702fa6}" name="O5"/>
+        <terminal y="-18" type="Outer" x="16" orientation="s" uuid="{866b7e47-684f-4b9b-9f47-34245dfa8091}" name="SW3"/>
+        <terminal y="-183" type="Outer" x="8" orientation="n" uuid="{53229adf-659f-4578-877e-5ec889de3218}" name="⊥"/>
+        <terminal y="-183" type="Outer" x="-16" orientation="n" uuid="{3dccb31e-70af-457c-939a-0aeec19bc293}" name="O4"/>
     </description>
 </definition>

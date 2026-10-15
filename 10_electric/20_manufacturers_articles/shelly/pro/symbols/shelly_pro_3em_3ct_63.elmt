@@ -15,7 +15,6 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text color="#000000" y="-8" x="27" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" text="L" rotation="0" />
         <rect style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" rx="0" ry="0" y="-175" x="-40" width="80" antialias="false" height="175" />
         <rect style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" rx="0" ry="0" y="-130" x="-40" width="80" antialias="false" height="85" />
         <text color="#000000" y="-90" x="-15" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" text="Shelly Pro&#10;3EM 3CT 63" rotation="0" />
@@ -57,16 +56,12 @@
             <info_name>ip</info_name>
         </dynamic_text>
         <terminal type="Generic" orientation="n" y="-175" name="N" x="30" uuid="{315e9aea-8cfb-403a-8a0f-053ed1356c07}" />
-        <terminal type="Generic" orientation="s" y="0" name="IC" x="5" uuid="{576fc661-00be-4648-b84e-ece40eea1ff1}" />
+        <terminal type="Generic" orientation="s" y="0" name="IC" x="10" uuid="{576fc661-00be-4648-b84e-ece40eea1ff1}" />
         <terminal type="Generic" orientation="s" y="-30" name="LAN" x="31" uuid="{51eaa33b-17e3-47ca-8575-ed5df5e1e840}" />
-        <terminal type="Generic" orientation="s" y="0" name="IA" x="-35" uuid="{b44a795f-1868-4189-8b9c-42fad4dedca9}" />
+        <terminal type="Generic" orientation="s" y="0" name="IA" x="-30" uuid="{b44a795f-1868-4189-8b9c-42fad4dedca9}" />
         <terminal type="Generic" orientation="n" y="-175" name="C" x="10" uuid="{6b169374-3b8b-4699-8853-4717bf47d495}" />
-        <terminal type="Generic" orientation="s" y="0" name="IN" x="25" uuid="{186b938a-af9d-4dff-9bd2-c1ff31e9456b}" />
-        <terminal type="Generic" orientation="s" y="0" name="IB" x="-15" uuid="{45c01787-e4d9-4339-b080-096f06119149}" />
-        <terminal type="Generic" orientation="s" y="0" name="IB" x="-25" uuid="{8f8b0608-b9a3-4276-84f7-f69f34ae1baa}" />
-        <terminal type="Generic" orientation="s" y="0" name="IC" x="-5" uuid="{4eba5905-b5b8-45d8-8d9c-9de62ad753c3}" />
-        <terminal type="Generic" orientation="s" y="0" name="IN" x="15" uuid="{71e87633-1614-4900-b5b3-394679889e50}" />
-        <terminal type="Generic" orientation="s" y="0" name="L" x="35" uuid="{775bb12f-8bca-40c3-beed-59c938e4866e}" />
+        <terminal type="Generic" orientation="s" y="0" name="IN" x="30" uuid="{186b938a-af9d-4dff-9bd2-c1ff31e9456b}" />
+        <terminal type="Generic" orientation="s" y="0" name="IB" x="-10" uuid="{45c01787-e4d9-4339-b080-096f06119149}" />
         <terminal type="Generic" orientation="n" y="-175" name="B" x="-9.9375" uuid="{a1e42d56-d334-4f5a-bc4a-7f9059321bef}" />
         <terminal type="Generic" orientation="n" y="-175" name="A" x="-29.9375" uuid="{642eade4-8698-4d9f-9300-cb4ec51d9e4e}" />
     </description>

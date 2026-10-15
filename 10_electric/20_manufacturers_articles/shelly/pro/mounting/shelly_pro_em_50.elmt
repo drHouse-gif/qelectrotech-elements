@@ -76,12 +76,12 @@
             <text></text>
             <info_name>ip</info_name>
         </dynamic_text>
-        <terminal type="Outer" x="8" y="-2" name="+12" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
-        <terminal type="Outer" x="-8" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" x="16" y="-200" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
-        <terminal type="Outer" x="-3" y="-20" name="L" uuid="{674af02c-2701-4003-a238-e08a013b9786}" orientation="s"/>
+        <terminal type="Outer" x="8" y="-2" name="L" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
+        <terminal type="Outer" x="-8" y="-200" name="O" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" x="16" y="-200" name="I" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" x="-3" y="-20" name="IA" uuid="{674af02c-2701-4003-a238-e08a013b9786}" orientation="s"/>
         <terminal type="Outer" x="12" y="-9.05" name="LAN" uuid="{21c53540-77db-4a67-9d11-cae53bd12d41}" orientation="s"/>
-        <terminal type="Outer" x="15" y="-20" name="+12" uuid="{8dfd04e8-ca18-4a18-a80a-5429f4b12e9a}" orientation="s"/>
+        <terminal type="Outer" x="15" y="-20" name="IB" uuid="{8dfd04e8-ca18-4a18-a80a-5429f4b12e9a}" orientation="s"/>
         <terminal type="Outer" x="-4" y="-2" name="N" uuid="{d7e5f7b8-fd13-4ea1-be76-83c9579aef61}" orientation="s"/>
     </description>
 </definition>
