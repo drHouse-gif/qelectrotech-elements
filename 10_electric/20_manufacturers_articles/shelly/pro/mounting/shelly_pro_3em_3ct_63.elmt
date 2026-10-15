@@ -76,13 +76,13 @@
             <info_name>ip</info_name>
         </dynamic_text>
         <terminal type="Outer" x="12" y="-9" name="LAN" uuid="{44046a76-0ebd-4955-b9d6-bb8a84688162}" orientation="s"/>
-        <terminal type="Outer" x="14" y="-24" name="+12" uuid="{6debd340-9991-4968-80b1-7791dd0d2705}" orientation="s"/>
-        <terminal type="Outer" x="4" y="-6" name="+12" uuid="{fa3482fa-5d39-4242-b0f3-74d9455756db}" orientation="s"/>
-        <terminal type="Outer" x="-16" y="-184" name="O2" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" orientation="n"/>
-        <terminal type="Outer" x="-8" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" x="-14" y="-6" name="L" uuid="{b9bf736f-a0ee-4dad-bcd3-7a8c28f55361}" orientation="s"/>
-        <terminal type="Outer" x="16" y="-200" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
-        <terminal type="Outer" x="-4" y="-24" name="L" uuid="{717a2649-6374-4be6-a7d8-d3d5b359e452}" orientation="s"/>
-        <terminal type="Outer" x="8" y="-184" name="I2" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" orientation="n"/>
+        <terminal type="Outer" x="14" y="-24" name="IB" uuid="{6debd340-9991-4968-80b1-7791dd0d2705}" orientation="s"/>
+        <terminal type="Outer" x="4" y="-6" name="IN" uuid="{fa3482fa-5d39-4242-b0f3-74d9455756db}" orientation="s"/>
+        <terminal type="Outer" x="-16" y="-184" name="A" uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" orientation="n"/>
+        <terminal type="Outer" x="-8" y="-200" name="C" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" x="-14" y="-6" name="IC" uuid="{b9bf736f-a0ee-4dad-bcd3-7a8c28f55361}" orientation="s"/>
+        <terminal type="Outer" x="16" y="-200" name="N" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" x="-4" y="-24" name="IA" uuid="{717a2649-6374-4be6-a7d8-d3d5b359e452}" orientation="s"/>
+        <terminal type="Outer" x="8" y="-184" name="B" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" orientation="n"/>
     </description>
 </definition>

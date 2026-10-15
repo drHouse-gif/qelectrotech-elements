@@ -72,12 +72,12 @@
         <text rotation="0" x="36" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#9a9996" y="-188" text="LAN"/>
         <text rotation="0" x="44" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#9a9996" y="-11" text="N"/>
         <text rotation="0" x="33" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#9a9996" y="-11" text="L"/>
-        <terminal type="Outer" name="+12" x="46" y="-1" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
-        <terminal type="Outer" name="+12" x="0" y="-2" uuid="{10e5079d-2fd7-4c41-8600-19b054398d35}" orientation="s"/>
-        <terminal type="Outer" name="+12" x="34" y="-1" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
-        <terminal type="Outer" name="O1" x="-40" y="-200" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" name="I1" x="40" y="-200" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
-        <terminal type="Outer" name="L" x="-40" y="-2" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
-        <terminal type="Outer" name="I1" x="0" y="-200" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" name="N" x="46" y="-1" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
+        <terminal type="Outer" name="LAN5" x="0" y="-2" uuid="{10e5079d-2fd7-4c41-8600-19b054398d35}" orientation="s"/>
+        <terminal type="Outer" name="L" x="34" y="-1" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
+        <terminal type="Outer" name="LAN1" x="-40" y="-200" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" name="LAN3" x="40" y="-200" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
+        <terminal type="Outer" name="LAN4" x="-40" y="-2" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
+        <terminal type="Outer" name="LAN2" x="0" y="-200" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
     </description>
 </definition>

@@ -51,9 +51,9 @@
         <arc x="-18" y="32" width="4" height="4" start="90" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
         <line x1="-17" y1="33" x2="-15" y2="35" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <text text="O" x="18" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
-        <text text="I" x="9" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
-        <text text="SW" x="5" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
-        <text text="L" x="-6" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
+        <text text="SW" x="11" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
+        <text text="L" x="2" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
+        <text text="L1" x="-6" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
         <text text="N" x="-14" y="24" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
         <line x1="40" y1="21" x2="-40" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false"/>
         <text text="Shelly 1 - 3.5 kW 230V / 16A" x="35" y="16" rotation="180" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#d3d7cf"/>
@@ -79,10 +79,10 @@
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <terminal uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" name="L" x="-8" y="43" orientation="s" type="Outer"/>
+        <terminal uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" name="L1" x="-8" y="43" orientation="s" type="Outer"/>
         <terminal uuid="{2b2511f0-0f6d-4eb7-8312-b172a646ed68}" name="O" x="16" y="43" orientation="s" type="Outer"/>
         <terminal uuid="{060821b5-57e7-4771-9836-6a22145e8575}" name="N" x="-16" y="43" orientation="s" type="Outer"/>
-        <terminal uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" name="I" x="8" y="43" orientation="s" type="Outer"/>
-        <terminal uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" name="SW" x="0" y="43" orientation="s" type="Outer"/>
+        <terminal uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" name="SW" x="8" y="43" orientation="s" type="Outer"/>
+        <terminal uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" name="L" x="0" y="43" orientation="s" type="Outer"/>
     </description>
 </definition>

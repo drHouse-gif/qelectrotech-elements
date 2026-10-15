@@ -43,10 +43,10 @@
             <text></text>
             <info_name>ip</info_name>
         </dynamic_text>
-        <terminal type="Generic" x="-30" y="-175" name="LAN2" uuid="{2daea8c4-2085-4ed5-acc8-086e9f21ef31}" orientation="n"/>
-        <terminal type="Generic" x="-15" y="-175" name="LAN3" uuid="{a4cc0a8c-2cc6-4129-8f0e-f129c69fe247}" orientation="n"/>
-        <terminal type="Generic" x="0" y="-175" name="LAN4" uuid="{5278b148-c1e9-470f-8adf-291f949350eb}" orientation="n"/>
-        <terminal type="Generic" x="15" y="-175" name="LAN5" uuid="{52f7771f-89c4-400b-b1e5-08f7f5bbdaf0}" orientation="n"/>
+        <terminal type="Generic" x="-30" y="-175" name="LAN1" uuid="{2daea8c4-2085-4ed5-acc8-086e9f21ef31}" orientation="n"/>
+        <terminal type="Generic" x="-15" y="-175" name="LAN2" uuid="{a4cc0a8c-2cc6-4129-8f0e-f129c69fe247}" orientation="n"/>
+        <terminal type="Generic" x="0" y="-175" name="LAN3" uuid="{5278b148-c1e9-470f-8adf-291f949350eb}" orientation="n"/>
+        <terminal type="Generic" x="15" y="-175" name="LAN4" uuid="{52f7771f-89c4-400b-b1e5-08f7f5bbdaf0}" orientation="n"/>
         <terminal type="Generic" x="30" y="-175" name="LAN5" uuid="{50386531-9135-4390-bf15-ada90c2fa17d}" orientation="n"/>
         <terminal type="Generic" x="-10" y="0" name="L" uuid="{5cd05a14-3390-4e28-b782-fc0098a8dc33}" orientation="s"/>
         <terminal type="Generic" x="10" y="0" name="N" uuid="{4c98f2d4-cf4e-41a1-b4f7-d720d73524f0}" orientation="s"/>

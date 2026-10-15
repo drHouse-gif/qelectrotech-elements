@@ -15,9 +15,7 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text x="-11" y="-16.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="180" color="#000000" text="T"/>
         <rect ry="0" x="-19" y="-135.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" width="5" height="20" rx="0"/>
-        <text x="-11" y="-15.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="180" color="#000000" text="T"/>
         <rect ry="0" x="-19" y="-175" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="40" height="175" rx="0"/>
         <text x="-4" y="-7.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="A"/>
         <text x="10" y="-7.5" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="B"/>
@@ -35,9 +33,9 @@
         </dynamic_text>
         <terminal type="Generic" x="0" y="-0.5" name="A" uuid="{d34afa87-508a-4ef0-8ef4-7befed6937aa}" orientation="s"/>
         <terminal type="Generic" x="1" y="-175" name="A" uuid="{7ee27ed4-057c-46fe-bc93-f0c1be831c4d}" orientation="n"/>
-        <terminal type="Generic" x="15" y="-175" name="T" uuid="{91917dd3-6f3c-4203-a3c4-5de810f49a5d}" orientation="n"/>
+        <terminal type="Generic" x="15" y="-175" name="GND" uuid="{91917dd3-6f3c-4203-a3c4-5de810f49a5d}" orientation="n"/>
         <terminal type="Generic" x="-13" y="-175" name="B" uuid="{d0eeb802-11fe-4903-9192-a416a631bdce}" orientation="n"/>
         <terminal type="Generic" x="14" y="-0.5" name="B" uuid="{d6789e47-aea7-4ca3-8e7a-1139497b3567}" orientation="s"/>
-        <terminal type="Generic" x="-14" y="-0.5" name="T" uuid="{2bed306d-aca7-4175-afd8-33adea8489d6}" orientation="s"/>
+        <terminal type="Generic" x="-14" y="-0.5" name="GND" uuid="{2bed306d-aca7-4175-afd8-33adea8489d6}" orientation="s"/>
     </description>
 </definition>

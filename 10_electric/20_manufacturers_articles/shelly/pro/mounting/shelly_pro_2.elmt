@@ -93,8 +93,8 @@
         </dynamic_text>
         <text x="-43" y="-252" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="MAC:"/>
         <text x="-32" y="-232" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="IP:"/>
-        <terminal type="Outer" x="-4" y="-1" name="N" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" orientation="s"/>
-        <terminal type="Outer" x="8" y="-1" name="+12" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" orientation="s"/>
+        <terminal type="Outer" x="-4" y="-1" name="L" uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" orientation="s"/>
+        <terminal type="Outer" x="8" y="-1" name="N" uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" orientation="s"/>
         <terminal type="Outer" x="8" y="-184" name="I2" uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" orientation="n"/>
         <terminal type="Outer" x="-8" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
         <terminal type="Outer" x="4" y="-17" name="SW1" uuid="{3f42d95e-a2a0-4da2-8fb2-01ab4bb416c3}" orientation="s"/>

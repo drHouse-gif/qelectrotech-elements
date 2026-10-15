@@ -15,7 +15,6 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text x="27" y="-8" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="L"/>
         <rect ry="0" x="-40" y="-175" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="80" height="175" rx="0"/>
         <rect ry="0" x="-40" y="-130" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" width="80" height="85" rx="0"/>
         <text x="-15" y="-90" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="Shelly Pro&#xa;RGBWW PM"/>
@@ -35,7 +34,6 @@
         <arc x="-9" y="-33" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="10" height="10" angle="90"/>
         <arc x="-12" y="-36" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="16" height="16" angle="90"/>
         <arc x="-15" y="-39" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="22" height="22" angle="90"/>
-        <text x="-24" y="-6" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="S5 S4 S3  S2 S1  +"/>
         <text x="5" y="-163" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="O2"/>
         <text x="-5" y="-163" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="O3"/>
         <text x="-15" y="-163" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="O4"/>
@@ -56,17 +54,23 @@
             <info_name>ip</info_name>
         </dynamic_text>
         <terminal type="Generic" x="30" y="0" name="+" uuid="{b6d2e93c-f71b-4c09-a406-e7d9134f7d67}" orientation="s"/>
-        <terminal type="Generic" x="-10" y="0" name="S4" uuid="{65b19758-3db3-4ec5-b011-723869e9bb25}" orientation="s"/>
+        <terminal type="Generic" x="-10" y="0" name="SW4" uuid="{65b19758-3db3-4ec5-b011-723869e9bb25}" orientation="s"/>
         <terminal type="Generic" x="10" y="-175" name="O2" uuid="{9c46d0cd-8fbd-4b04-9431-4653ff9243fe}" orientation="n"/>
-        <terminal type="Generic" x="30" y="-175" name="-" uuid="{e87f0661-0a65-4e3d-9881-5162aa963412}" orientation="n"/>
-        <terminal type="Generic" x="10" y="0" name="S2" uuid="{31fb8cb6-978e-4637-aae9-ca96a2e687b6}" orientation="s"/>
-        <terminal type="Generic" x="0" y="0" name="S3" uuid="{26d9a5c5-30cb-4d54-b53e-eb1097bda4a9}" orientation="s"/>
-        <terminal type="Generic" x="-10" y="-175" name="O3" uuid="{a491df37-2459-42fb-825c-52aae5a86110}" orientation="n"/>
+        <terminal type="Generic" x="30" y="-175" name="⊥" uuid="{e87f0661-0a65-4e3d-9881-5162aa963412}" orientation="n"/>
+        <terminal type="Generic" x="10" y="0" name="SW2" uuid="{31fb8cb6-978e-4637-aae9-ca96a2e687b6}" orientation="s"/>
+        <terminal type="Generic" x="0" y="0" name="SW3" uuid="{26d9a5c5-30cb-4d54-b53e-eb1097bda4a9}" orientation="s"/>
+        <terminal type="Generic" x="-10" y="-175" name="O4" uuid="{a491df37-2459-42fb-825c-52aae5a86110}" orientation="n"/>
         <terminal type="Generic" x="31" y="-30" name="LAN" uuid="{1c2ad20b-0acd-4d02-966b-03e8232766bf}" orientation="s"/>
-        <terminal type="Generic" x="-20" y="-175" name="O4" uuid="{2d038723-90b2-4871-acd9-b0f7a9abe7ef}" orientation="n"/>
-        <terminal type="Generic" x="20" y="0" name="S1" uuid="{72b1efa2-ebc2-4c8b-a323-dd6125fae491}" orientation="s"/>
+        <terminal type="Generic" x="-20" y="-175" name="O5" uuid="{2d038723-90b2-4871-acd9-b0f7a9abe7ef}" orientation="n"/>
+        <terminal type="Generic" x="20" y="0" name="SW1" uuid="{72b1efa2-ebc2-4c8b-a323-dd6125fae491}" orientation="s"/>
         <terminal type="Generic" x="20" y="-175" name="O1" uuid="{205b1bef-d3c1-4d82-b0b1-5c9e971fb5d2}" orientation="n"/>
-        <terminal type="Generic" x="0" y="-175" name="O2" uuid="{9ab01371-9fe2-4a4b-bb01-66e4f0feb784}" orientation="n"/>
-        <terminal type="Generic" x="-20" y="0" name="S5" uuid="{991103a2-665c-42e6-80e8-fc4edaba82ab}" orientation="s"/>
+        <terminal type="Generic" x="0" y="-175" name="O3" uuid="{9ab01371-9fe2-4a4b-bb01-66e4f0feb784}" orientation="n"/>
+        <terminal type="Generic" x="-20" y="0" name="SW5" uuid="{991103a2-665c-42e6-80e8-fc4edaba82ab}" orientation="s"/>
+        <text x="-23.5" y="-6" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="SW5"/>
+        <text x="-13.5" y="-6" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="SW4"/>
+        <text x="-3.5" y="-6" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="SW3"/>
+        <text x="6.5" y="-6" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="SW2"/>
+        <text x="16.5" y="-6" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="SW1"/>
+        <text x="28.5" y="-6" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="+"/>
     </description>
 </definition>

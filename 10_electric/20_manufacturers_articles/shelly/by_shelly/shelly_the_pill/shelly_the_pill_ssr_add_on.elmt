@@ -29,7 +29,7 @@
         <polygon y1="-16" antialias="false" y2="-21" y3="-21" style="line-style:normal;line-weight:normal;filling:HTMLGraySilver;color:HTMLGraySilver" x1="-1" x2="-4" x3="2"/>
         <text x="-9" y="-24" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="The Pill"/>
         <text x="-24" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="GND"/>
-        <text x="-13" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="IO1"/>
+        <text x="-13" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="IO3"/>
         <text x="18" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="5V"/>
         <rect ry="0" x="-25" y="-14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="14" rx="0"/>
         <rect ry="0" x="-15" y="-14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="14" rx="0"/>
@@ -37,22 +37,22 @@
         <rect ry="0" x="5" y="-14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="14" rx="0"/>
         <rect ry="0" x="15" y="-14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="14" rx="0"/>
         <text x="-3" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="IO2"/>
-        <text x="7" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="IO3"/>
+        <text x="7" y="-7" font="Liberation Sans,3,-1,5,50,0,0,0,0,0" rotation="0" color="#c0bfbc" text="IO1"/>
         <dynamic_text frame="false" Halignment="AlignLeft" x="30" y="-80" z="27" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{6261f08e-238c-481d-a44e-04569b555fb5}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <terminal type="Generic" x="-10" y="0" name="IO1" uuid="{973e6e1e-4ba7-4007-9836-2f1245053d57}" orientation="s"/>
-        <terminal type="Generic" x="-12" y="-80" name="LOAD 1" uuid="{7e50d5f6-e294-47f9-8ef7-e4a526e2412f}" orientation="n"/>
+        <terminal type="Generic" x="-10" y="0" name="IO3" uuid="{973e6e1e-4ba7-4007-9836-2f1245053d57}" orientation="s"/>
+        <terminal type="Generic" x="-12" y="-80" name="LOAD 1.1" uuid="{7e50d5f6-e294-47f9-8ef7-e4a526e2412f}" orientation="n"/>
         <terminal type="Generic" x="-20" y="0" name="GND" uuid="{7f5bbfb4-3396-406d-9e03-614cf85f437d}" orientation="s"/>
         <terminal type="Generic" x="20" y="0" name="5V" uuid="{5954a5eb-56f7-4a4c-af8e-d7529bce0e23}" orientation="s"/>
         <terminal type="Generic" x="22" y="-80" name="5V" uuid="{c47ed7b6-8faa-4c7b-a81e-3decf3346c4a}" orientation="n"/>
         <terminal type="Generic" x="12" y="-80" name="IO3" uuid="{0f106967-6872-4ac5-be53-318e6caddbbd}" orientation="n"/>
-        <terminal type="Generic" x="-24" y="-80" name="LOAD 2" uuid="{28628884-f085-47c9-a362-57917f3772a3}" orientation="n"/>
+        <terminal type="Generic" x="-24" y="-80" name="LOAD 2.1" uuid="{28628884-f085-47c9-a362-57917f3772a3}" orientation="n"/>
         <terminal type="Generic" x="2" y="-80" name="GND" uuid="{0c7a751d-b542-4543-b1f3-a1bc0875aefd}" orientation="n"/>
-        <terminal type="Generic" x="-18" y="-80" name="LOAD 1" uuid="{9ab0b5c7-f415-46d6-bdde-42156a655233}" orientation="n"/>
-        <terminal type="Generic" x="10" y="0" name="IO3" uuid="{efb54e12-0c60-4ae3-abc1-717d71ab8261}" orientation="s"/>
-        <terminal type="Generic" x="-6" y="-80" name="GND" uuid="{2fc3d079-36cf-4a00-bf8c-303448924d58}" orientation="n"/>
+        <terminal type="Generic" x="-18" y="-80" name="LOAD 2.2" uuid="{9ab0b5c7-f415-46d6-bdde-42156a655233}" orientation="n"/>
+        <terminal type="Generic" x="10" y="0" name="IO1" uuid="{efb54e12-0c60-4ae3-abc1-717d71ab8261}" orientation="s"/>
+        <terminal type="Generic" x="-6" y="-80" name="LOAD 1.2" uuid="{2fc3d079-36cf-4a00-bf8c-303448924d58}" orientation="n"/>
         <terminal type="Generic" x="0" y="0" name="IO2" uuid="{ea23c26b-a4d2-4dce-9caa-c5b932f96422}" orientation="s"/>
     </description>
 </definition>

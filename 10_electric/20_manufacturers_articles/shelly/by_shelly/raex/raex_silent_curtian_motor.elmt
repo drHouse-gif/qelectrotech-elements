@@ -36,7 +36,9 @@
             <text />
             <info_name>ip</info_name>
         </dynamic_text>
-        <terminal type="Generic" x="-5" uuid="{02319158-d304-47f6-9205-dd15087705a0}" y="54" orientation="s" name="M2" />
-        <terminal type="Generic" x="-15" uuid="{185706c6-52f2-4bbc-9662-9261e5683384}" y="54" orientation="s" name="M1" />
+        <terminal type="Generic" x="-5" uuid="{02319158-d304-47f6-9205-dd15087705a0}" y="54" orientation="s" name="N" />
+        <terminal type="Generic" x="-15" uuid="{185706c6-52f2-4bbc-9662-9261e5683384}" y="54" orientation="s" name="L" />
+        <text x="-20" y="52" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="L"/>
+        <text x="-3" y="52" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="N"/>
     </description>
 </definition>

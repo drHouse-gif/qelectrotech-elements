@@ -70,8 +70,8 @@
         </dynamic_text>
         <terminal type="Generic" x="4" y="-199" name="A" uuid="{618570d5-46bb-4675-9821-e16f138860f2}" orientation="n"/>
         <terminal type="Generic" x="-8" y="-199" name="B" uuid="{18a6a00f-f3f6-4fc9-b1d4-c6ad3ca3ca3d}" orientation="n"/>
-        <terminal type="Generic" x="-16" y="-1" name="T" uuid="{0f385f22-57b7-47a4-acd5-4a9fb7130b1d}" orientation="s"/>
-        <terminal type="Generic" x="16" y="-199" name="T" uuid="{f5d7f130-f157-477b-bb9d-997dcd9adf1a}" orientation="n"/>
+        <terminal type="Generic" x="-16" y="-1" name="GND" uuid="{0f385f22-57b7-47a4-acd5-4a9fb7130b1d}" orientation="s"/>
+        <terminal type="Generic" x="16" y="-199" name="GND" uuid="{f5d7f130-f157-477b-bb9d-997dcd9adf1a}" orientation="n"/>
         <terminal type="Generic" x="8" y="-1" name="B" uuid="{1655bab2-8683-47cc-9eae-3ca8d3f42913}" orientation="s"/>
         <terminal type="Generic" x="-4" y="-1" name="A" uuid="{6c838557-377d-4073-8d19-3a5d9a7e1eb8}" orientation="s"/>
     </description>

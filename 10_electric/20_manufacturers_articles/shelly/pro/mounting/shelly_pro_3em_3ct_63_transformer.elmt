@@ -37,8 +37,8 @@
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <terminal type="Outer" x="20" y="-80" name="L" uuid="{d9f5063c-5c5d-4c29-b465-5a3ba07f1e79}" orientation="e"/>
-        <terminal type="Outer" x="20" y="-50" name="L" uuid="{108fb2c0-2894-4ff7-bc78-93c0e75d5ea7}" orientation="e"/>
-        <terminal type="Outer" x="20" y="-20" name="L" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" orientation="e"/>
+        <terminal type="Outer" x="20" y="-80" name="CTA" uuid="{d9f5063c-5c5d-4c29-b465-5a3ba07f1e79}" orientation="e"/>
+        <terminal type="Outer" x="20" y="-50" name="CTB" uuid="{108fb2c0-2894-4ff7-bc78-93c0e75d5ea7}" orientation="e"/>
+        <terminal type="Outer" x="20" y="-20" name="CTC" uuid="{174e9650-65b9-43cb-8332-dd3dcc87ac7d}" orientation="e"/>
     </description>
 </definition>

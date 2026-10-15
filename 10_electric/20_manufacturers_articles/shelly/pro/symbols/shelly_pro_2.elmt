@@ -15,7 +15,6 @@
     </elementInformations>
     <informations>Shelly Europe Ltd.</informations>
     <description>
-        <text color="#000000" y="-8" x="27" font="Liberation Sans,9,-1,5,50,0,0,0,0,0" text="L" rotation="0" />
         <rect style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" rx="0" ry="0" y="-175" x="-40" width="80" antialias="false" height="175" />
         <rect style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhite;color:HTMLGrayBlack" rx="0" ry="0" y="-130" x="-40" width="80" antialias="false" height="85" />
         <text color="#000000" y="-90" x="-15" font="Liberation Sans,5,-1,5,50,0,0,0,0,0" text="Shelly Pro&#10;2" rotation="0" />
@@ -58,8 +57,8 @@
         </dynamic_text>
         <terminal type="Generic" orientation="s" y="0" name="L" x="-30" uuid="{8e2b8fe6-1986-4917-bff0-47fd21ddf2d3}" />
         <terminal type="Generic" orientation="s" y="-30" name="LAN" x="31" uuid="{3887df5a-9a4f-41ab-8a8f-1d7a666ff51a}" />
-        <terminal type="Generic" orientation="s" y="0" name="L" x="30" uuid="{ed527aef-e149-46c7-ba97-3429e8c6edef}" />
-        <terminal type="Generic" orientation="s" y="0" name="SW2" x="10" uuid="{c105f77d-34d4-4c54-bd07-1e10ac82a9da}" />
+        <terminal type="Generic" orientation="s" y="0" name="SW2" x="30" uuid="{ed527aef-e149-46c7-ba97-3429e8c6edef}" />
+        <terminal type="Generic" orientation="s" y="0" name="SW1" x="10" uuid="{c105f77d-34d4-4c54-bd07-1e10ac82a9da}" />
         <terminal type="Generic" orientation="n" y="-175" name="I1" x="30" uuid="{f5d7f130-f157-477b-bb9d-997dcd9adf1a}" />
         <terminal type="Generic" orientation="s" y="0" name="N" x="-10" uuid="{253901df-9772-4c63-80af-c7bb3773ae35}" />
         <terminal type="Generic" orientation="n" y="-175" name="O1" x="10" uuid="{18a6a00f-f3f6-4fc9-b1d4-c6ad3ca3ca3d}" />

@@ -107,16 +107,16 @@
         <text x="-13" y="-64" font="Liberation Sans,4,-1,5,50,0,0,0,0,0" rotation="0" color="#77767b" text="^"/>
         <text x="-83" y="-251" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="MAC:"/>
         <text x="-72" y="-231" font="Liberation Sans,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="IP:"/>
-        <terminal type="Outer" x="9" y="-1" name="+12" uuid="{0e63ea4d-36be-42b3-8e49-84b8b71b3a64}" orientation="s"/>
-        <terminal type="Outer" x="45" y="-1" name="+12" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
-        <terminal type="Outer" x="33" y="-1" name="+12" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
-        <terminal type="Outer" x="-25" y="-200" name="I1" uuid="{ee26e8ff-a0fc-415a-a8c0-20347d886f9c}" orientation="n"/>
-        <terminal type="Outer" x="-50" y="-200" name="O1" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
-        <terminal type="Outer" x="50" y="-200" name="I1" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
-        <terminal type="Outer" x="-40" y="-2" name="L" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
-        <terminal type="Outer" x="0" y="-200" name="I1" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
-        <terminal type="Outer" x="-3" y="-1" name="+12" uuid="{699dedb0-3d0d-446a-9c3e-c2608ff4ec9c}" orientation="s"/>
-        <terminal type="Outer" x="25" y="-200" name="I1" uuid="{7cfbe5a6-5dec-4b13-aed0-80161890386d}" orientation="n"/>
-        <terminal type="Outer" x="21" y="-1" name="+12" uuid="{38c65b67-882f-4900-9e46-8c789a078074}" orientation="s"/>
+        <terminal type="Outer" x="9" y="-1" name="S4" uuid="{0e63ea4d-36be-42b3-8e49-84b8b71b3a64}" orientation="s"/>
+        <terminal type="Outer" x="45" y="-1" name="S1" uuid="{7f0161a8-2a41-404f-a642-78de328e3142}" orientation="s"/>
+        <terminal type="Outer" x="33" y="-1" name="S2" uuid="{93cafbba-773c-48d1-af12-31b10eaeddc7}" orientation="s"/>
+        <terminal type="Outer" x="-25" y="-200" name="O2▲" uuid="{ee26e8ff-a0fc-415a-a8c0-20347d886f9c}" orientation="n"/>
+        <terminal type="Outer" x="-50" y="-200" name="O2▼" uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" orientation="n"/>
+        <terminal type="Outer" x="50" y="-200" name="O1▲" uuid="{a6f56ba9-bc6f-4097-ae2e-507e0b90c97a}" orientation="n"/>
+        <terminal type="Outer" x="-40" y="-2" name="LAN" uuid="{0f3c8359-2ce7-4906-a210-8e4f4c95a23f}" orientation="s"/>
+        <terminal type="Outer" x="0" y="-200" name="L" uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" orientation="n"/>
+        <terminal type="Outer" x="-3" y="-1" name="N" uuid="{699dedb0-3d0d-446a-9c3e-c2608ff4ec9c}" orientation="s"/>
+        <terminal type="Outer" x="25" y="-200" name="O1▼" uuid="{7cfbe5a6-5dec-4b13-aed0-80161890386d}" orientation="n"/>
+        <terminal type="Outer" x="21" y="-1" name="S3" uuid="{38c65b67-882f-4900-9e46-8c789a078074}" orientation="s"/>
     </description>
 </definition>
